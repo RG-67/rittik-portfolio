@@ -26,12 +26,12 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#0f0f0f] to-[#1f1f1f] text-white font-body px-6 md:px-20">
       {/* Nav */}
-      <nav className="mb-12 flex justify-between items-center border-b border-white/10 pb-6 pt-6">
-        <h1 className="text-3xl text-neonBlue font-futuristic">Rittik Ghosh</h1>
-        <div className="space-x-6 text-sm md:text-base">
-          <a href="#about" title="About Section" className="text-gray-300 hover:text-neonBlue">About</a>
-          <a href="#projects" title="Projects Section" className="text-gray-300 hover:text-neonBlue">Projects</a>
-          <a href="#contact" title="Contact Section" className="text-gray-300 hover:text-neonBlue">Contact</a>
+      <nav className="mb-12 flex flex-col md:flex-row items-center md:justify-between border-b border-white/10 pb-6 pt-6 gap-4">
+        <h1 className="text-3xl text-neonBlue font-futuristic whitespace-nowrap">Rittik Ghosh</h1>
+        <div className="flex gap-6 text-sm md:text-base">
+          <a href="#about" className="text-gray-300 hover:text-neonBlue">About</a>
+          <a href="#projects" className="text-gray-300 hover:text-neonBlue">Projects</a>
+          <a href="#contact" className="text-gray-300 hover:text-neonBlue">Contact</a>
         </div>
       </nav>
 
