@@ -56,7 +56,7 @@ function App() {
           ))}
         </div>
         <a
-          href="https://drive.google.com/uc?export=download&id=1hD1E61LUHdbBNuuOmoBih0Bd8AqNvTDr"
+          href="https://drive.google.com/file/d/1hD1E61LUHdbBNuuOmoBih0Bd8AqNvTDr/view?usp=sharing"
           download
           title="Download Resume PDF"
           className="inline-block mt-6 text-black bg-neonGreen hover:bg-green-300 px-6 py-2 rounded-lg font-medium shadow-lg"
