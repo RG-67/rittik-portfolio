@@ -58,7 +58,7 @@ function App() {
           Full Stack Developer | Node.js | React Native | PostgreSQL | Android
         </p>
         <a
-          href="https://drive.google.com/uc?export=download&id=1OIdRf1TCOkGmH2Xb-_SVVgrrcgBwqIHb"
+          href="https://drive.google.com/uc?export=download&id=1AzXbpRXFzYh8A6PUlLUYh1fsmCIaKcps"
           download
           className="inline-block mt-6 bg-blue-500 hover:bg-blue-600 text-white px-5 py-2 rounded-md transition"
         >
